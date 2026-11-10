@@ -2,7 +2,7 @@
 
 **Jiya Makhija**, jmakhija@ucsd.edu
 
-**Section:** D23, Red-Teaming Financial LLM Systems (Intuit)
+**Section:** D23, Red-Teaming Financial LLM Systems (Intuit)<br>
 **Mentors:** Dhruvi Kothari and Victor Calderon
 
 ---
